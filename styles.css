@@ -1,2 +1,9 @@
+#box{
+	margin:20px auto;
+	border: 15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+	width:300px;
+}
 
 /* Your CSS Code here. */
